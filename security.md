@@ -42,3 +42,6 @@
 
 ## Exchange
 - [zero day 2026-05-16](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/)
+
+## Microsoft
+- [OAuth Device Authorization](https://cybersecuritynews.com/hackers-abuse-oauth-device-authorization-flow/)
