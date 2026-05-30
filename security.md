@@ -20,6 +20,7 @@
 - [solarwinds](https://www.solarwinds.com/blog/an-investigative-update-of-the-cyberattack)
 - [jdownloader](https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/)
 - [github hack, Nx Console](https://github.com/nrwl/nx-console/security/advisories/GHSA-c9j4-9m59-847w?utm_source=slothbytes.beehiiv.com&utm_medium=newsletter&utm_campaign=a-vs-code-extension-hacked-github&_bhlid=d32fcdb65dae8066d593dffe99f90bd849f3b28d)
+ - [github hack, Nx Console - CISA](https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories)
 
 
 ## Shai Hulud
@@ -33,9 +34,10 @@
 
 
 # Reports
-[AI Agent delete Meta mails](https://www.404media.co/meta-director-of-ai-safety-allows-ai-agent-to-accidentally-delete-her-inbox/)
-[AI Agent delete Company Database](https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database)
-[Fired employees delete data](https://www.csoonline.com/article/4170987/fired-employee-sought-ai-help-to-hide-deletion-of-hosting-firms-customer-data.html)
+- [AI Agent delete Meta mails](https://www.404media.co/meta-director-of-ai-safety-allows-ai-agent-to-accidentally-delete-her-inbox/)
+- [AI Agent delete Company Database](https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database)
+- [Fired employees delete data](https://www.csoonline.com/article/4170987/fired-employee-sought-ai-help-to-hide-deletion-of-hosting-firms-customer-data.html)
+-[Micorosft Zeo day - Chaos Eclipse](https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085)
 
 ## Linux
 - [Dirty Frag exploit](https://www.tomshardware.com/tech-industry/cyber-security/dirty-frag-exploit-gets-root-on-most-linux-machines-since-2017-no-patches-available-no-warning-given-copy-fail-like-vulnerability-had-its-embargo-broken)
