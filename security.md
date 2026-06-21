@@ -21,6 +21,8 @@
 - [jdownloader](https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/)
 - [github hack, Nx Console](https://github.com/nrwl/nx-console/security/advisories/GHSA-c9j4-9m59-847w?utm_source=slothbytes.beehiiv.com&utm_medium=newsletter&utm_campaign=a-vs-code-extension-hacked-github&_bhlid=d32fcdb65dae8066d593dffe99f90bd849f3b28d)
  - [github hack, Nx Console - CISA](https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories)
+ - [npm binding.gyp](https://cybersecuritynews.com/binding-gyp-supply-chain-attack-compromises-dozens-of-npm-packages/)
+ - [npm, pypi, crates](https://cybersecuritynews.com/supply-chain-trapdoor-malware/)
 
 
 ## Shai Hulud
@@ -47,6 +49,7 @@
 
 ## Copilot
 - [informatoin leak](https://cybersecuritynews.com/microsoft-365-copilot-vulnerabilities-data/)
+- [one click data leak](https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/)
 
 
 ## Exchange
@@ -54,4 +57,4 @@
 
 ## Microsoft
 - [OAuth Device Authorization](https://cybersecuritynews.com/hackers-abuse-oauth-device-authorization-flow/)
-
+- [M365 hack](https://borncity.com/blog/2026/06/13/geist-in-der-cloud-chinesische-hacker-waren-18-monate-in-m365-unterwegs/)

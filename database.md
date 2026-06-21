@@ -3,6 +3,7 @@
 - Linter (VS Code Extention, CLI) [SQL Fluff](https://www.sqlfluff.com/) MIT Licence
 - [Oracle SQL Developer](https://www.oracle.com/database/sqldeveloper/) Oracle Free Use Licence
 - [DBeaver Community](https://dbeaver.io/)
+- [SQL formatter](https://github.com/hogimn/sql-formatter)
 
 
 ## local AI 

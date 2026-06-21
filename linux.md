@@ -8,3 +8,5 @@ umount, mkswap, swapon, lxc-ls, lxc-stop, lxc-start, lxc-restart, lxc-config, lx
 lsof, ping, nslookup, nmap, ifconfig, ip, route, traceroute, netstat, tcpdump, wireshark, netstat, 
 selinux, apparmor, tcpwrapper, snort, chkrootkit, rkhunter, lynis, fail2ban, iptables, nftables, ufw, strace, history, xxd
 strace, top, htop, iotiop, pidof, pgrep, ps, inotifywait, ptrace, gdb, xxd, 
+
+- [monitoring tools](https://www.howtogeek.com/these-6-linux-monitoring-tools-helped-me-uncover-every-problem-on-my-network/)
